@@ -6,5 +6,5 @@ Technologies used are: Java, Spring MVC, Hibernate, Maven, Javascript, AJAX, Boo
 
 Screenshots:
 
-![Alt text](http://full/path/to/img.jpg "Home Page")
+![Alt text](http://i.imgur.com/apnvUeY.png "Home Page")
 
