@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+  <class name="hibernate.Books" table="books">
+    <id name="booksKey" column="booksKey" type="int"> 
+    <generator class="increment"/>    
+    </id>
+    <property name="title" column="title" type="string"/>
+    <property name="author" column="author" type="string"/>
+  </class>
+  
+   <class name="hibernate.Movies" table="movies">
+    <id name="movieKey" column="movieKey" type="int"> 
+    <generator class="increment"/>    
+    </id>
+    <property name="title" column="title" type="string"/>
+    <property name="rating" column="rating" type="string"/>
+  </class>
+  
+  <class name="hibernate.Music" table="music">
+    <id name="musicKey" column="musicKey" type="int"> 
+    <generator class="increment"/>    
+    </id>
+    <property name="title" column="title" type="string"/>
+    <property name="artist" column="artist" type="string"/>
+  </class>
+  
+  <class name="hibernate.Contacts" table="contacts">
+    <id name="contactKey" column="contactKey" type="int"> 
+    <generator class="increment"/>    
+    </id>
+    <property name="name" 	   column="name" 	  type="string"/>
+    <property name="email"     column="email"     type="string"/>
+  </class>  
+  
+</hibernate-mapping>
