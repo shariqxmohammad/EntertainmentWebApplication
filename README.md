@@ -6,5 +6,17 @@ Technologies used are: Java, Spring MVC, Hibernate, Maven, Javascript, AJAX, Boo
 
 Screenshots:
 
-![Alt text](http://i.imgur.com/apnvUeY.png "Home Page")
+![Alt text](http://i.imgur.com/vWCg0DH.png "Home Page")
+![Alt text](http://i.imgur.com/fgH43I0.png "Books")
+![Alt text](http://i.imgur.com/qKW7xob.png "Books Database")
+![Alt text](http://i.imgur.com/xdJd2v0.png "Movies")
+![Alt text](http://i.imgur.com/5b7hHbx.png "Movies Database")
+![Alt text](http://i.imgur.com/yPsG8ON.png "Music")
+![Alt text](http://i.imgur.com/KDmkY8U.png "Music Database")
+![Alt text](http://i.imgur.com/N6bO8gS.png "Contacts")
+![Alt text](http://i.imgur.com/PMkdJcL.png "Contacts Database")
+
+
+
+
 
